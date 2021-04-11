@@ -3,5 +3,5 @@ This repository contains all of the projects completed during the Data Science I
 
 | Projects      |Description    |
 | ------------- |:-------------:|
-| <a href="https://github.com/crushedmonster/GA_Projects/tree/master/project_1">Project 1: Standardized Test Analysis</a>| Load, clean, and explore ACT and SAT scores by state |
+| <a href="https://github.com/crushedmonster/GA_Projects/tree/master/project_1">Project 1: Standardized Test Analysis</a>| Load, clean, and explore ACT and SAT data by state |
 
