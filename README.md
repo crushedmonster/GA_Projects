@@ -3,5 +3,5 @@ This repository contains all of the projects completed during the Data Science I
 
 | Projects      |Description    |
 | ------------- |-------------|
-| <a href="https://github.com/crushedmonster/GA_Projects/tree/master/project_1">Project 1: Standardized Test Analysis</a>| Conduct data analysis on 2017 - 2019 ACT and SAT data by state, and provide recommendations to the college board to increase revenue. |
+| <a href="https://github.com/crushedmonster/GA_Projects/tree/master/project_1">Project 1: Standardized Test Analysis</a>| Load, clean, and explore 2017 - 2019 ACT & SAT data by state, and provide recommendations to the college board to increase revenue. |
 
