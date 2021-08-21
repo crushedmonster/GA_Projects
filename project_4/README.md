@@ -24,8 +24,8 @@ The data collected include:
 3. Weather data
 
 There are a total of two notebooks in this project, namely:
-1. [Data Cleaning and Exploratory Data Analysis](../codes/01_Data_Cleaning_and_EDA.ipynb)
-2. [Feature Engineering, Modelling and Cost Benefit Analysis](../codes/02_Feature_Engineering_Modelling_Cost_Benefit.ipynb)
+1. [Data Cleaning and Exploratory Data Analysis](./codes/01_Data_Cleaning_and_EDA.ipynb)
+2. [Feature Engineering, Modelling and Cost Benefit Analysis](./codes/02_Feature_Engineering_Modelling_Cost_Benefit.ipynb)
 
 ---
 
