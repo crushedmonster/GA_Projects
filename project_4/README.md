@@ -41,9 +41,9 @@ There are a total of two notebooks in this project, namely:
  
 #### 1. Datasets used
 The datasets used for analysis in this project are:
-- [`train.csv`](/datasets/train.csv), [`test.csv`](/datasets/test.csv): the training and test set of the main dataset. The training set consists of data from 2007, 2009, 2011, and 2013, while in the test set we are requested to predict the test results for 2008, 2010, 2012, and 2014.
-- [`spray.csv`](/datasets/spray.csv): GIS data of spraying efforts in 2011 and 2013
-- [`weather.csv`](/datasets/weather.csv): weather data from 2007 to 2014. 
+- [`train.csv`](./datasets/train.csv), [`test.csv`](./datasets/test.csv): the training and test set of the main dataset. The training set consists of data from 2007, 2009, 2011, and 2013, while in the test set we are requested to predict the test results for 2008, 2010, 2012, and 2014.
+- [`spray.csv`](./datasets/spray.csv): GIS data of spraying efforts in 2011 and 2013
+- [`weather.csv`](./datasets/weather.csv): weather data from 2007 to 2014. 
 
 ##### Data Dictionary
 
